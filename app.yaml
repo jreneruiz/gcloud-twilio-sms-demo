@@ -1,0 +1,5 @@
+runtime: python37
+env_variables:
+  ACCOUNT_SID: <<SECRET>>
+  AUTH_TOKEN: <<SECRET>>
+  TW_NUMBER: <<SECRET>>
